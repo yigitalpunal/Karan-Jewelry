@@ -33,7 +33,7 @@
 1. )
 **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/JewelryShop.git
+   git clone https://github.com/yigitalpunal/Karan-Jewelry
 
 2.)
 Open JewelryShop.sln in Visual Studio
