@@ -53,6 +53,8 @@ Press F5 or click "Start"
 
 Navigate to: https://localhost:{port}/Product
 
+---
+
 ## 🌱 Seed Data
 If the Products table is empty, the application will automatically populate it with 9 sample jewelry products on first run using the SeedData.Initialize() method.
 
