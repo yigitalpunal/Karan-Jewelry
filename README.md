@@ -53,12 +53,12 @@ Press F5 or click "Start"
 
 Navigate to: https://localhost:{port}/Product
 
-##🌱 Seed Data
+## 🌱 Seed Data
 If the Products table is empty, the application will automatically populate it with 9 sample jewelry products on first run using the SeedData.Initialize() method.
 
 ---
 
-##📌 Project Status
+## 📌 Project Status
 ✅ This project includes:
 
 - Product display, search, filter, sort
@@ -68,7 +68,7 @@ If the Products table is empty, the application will automatically populate it w
 
 ---
 
-##🛠️ Coming Soon:
+## 🛠️ Coming Soon:
 
 - Admin panel (CRUD for products)
 - User authentication (login/register)
@@ -77,12 +77,12 @@ If the Products table is empty, the application will automatically populate it w
 
 ---
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 Yiğit Alp ÜNAL
 📧 unalyigitalpp@gmail.com
 🔗 GitHub: @yigitalpunal
 
 ---
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and share this code with attribution.
